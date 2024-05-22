@@ -36,7 +36,7 @@ This a crucial step where you specify the range of values for each attribute and
    - None (25%): Entities that haven't been inspected provide important data points, hence a moderate probability.
      
 ## Step 3: Create Synthetic Data Using Python
-Refer the notebook: [here](Data/SyntheticData.ipynb)
+Refer the notebook: [SyntheticData.ipynb](Data/SyntheticData.ipynb)
 
 ## Step 4: Verify the Synthetic Data
 - Review Distributions: Ensure the distributions of values match the expected probabilities.
