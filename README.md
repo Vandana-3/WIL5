@@ -14,6 +14,7 @@ This a crucial step where you specify the range of values for each attribute and
 1. Number of Clients Served Annually:
    - <200 (40%): Smaller entities are often more numerous but have fewer clients. Assigning a higher probability here reflects this common scenario.
    - 201-500 (30%): Medium-sized entities are less common than smaller ones but still significant. A moderate probability reflects their prevalence.
+   - >500 (30%)
      
 2. Past Infraction History Type:
    - None (50%): A significant portion of entities typically comply with regulations, so a higher probability is assigned.
