@@ -2,7 +2,6 @@ import pandas as pd  # pip install pandas openpyxl
 import plotly.express as px  # pip install plotly-express
 import streamlit as st  # pip install streamlit
 import pickle
-import altair as alt
 import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 import seaborn as sns
