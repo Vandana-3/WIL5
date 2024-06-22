@@ -87,14 +87,14 @@ def risk_predict(input_data):
 
 ############################################ LOAD DATA ##################################################################
 
-DATA_URL = ("/Users/meghakatiyar/M2M_WIL5/WIL5/Data/df_dashboard_predicted.csv")
+DATA_URL = ("df_dashboard_predicted.csv")
 
 df = load_data()
 df = df.fillna('None')
 
 ############################################ LOAD MODEL ##################################################################
 
-model_path = '/Users/meghakatiyar/M2M_WIL5/WIL5/ML Model/RiskPredictor_v3.pkl'
+model_path = '/ML Model/RiskPredictor_v3.pkl'
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
