@@ -1,0 +1,7 @@
+joblib
+plotly
+scikit-learn==1.2.2
+seaborn
+openai
+numpy==1.25.2
+
