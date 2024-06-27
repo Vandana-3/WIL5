@@ -1,0 +1,101 @@
+Entity,Annual Clients,Infraction Type,Infraction Timeline,Public Complaints,Sentiment Analysis,Inspection Results
+E1949,343,Minor,Within past year,Major,None,Pass
+E1415,469,Major,Within past year,None,None,Fail
+E464,542,Minor,None,Major,Flagged,Pass
+E484,55,None,None,None,None,None
+E834,751,None,Within past year,None,Flagged,Fail
+E2104,472,Minor,Within past 1-3 years,None,Flagged,None
+E4754,642,Major,None,Minor,None,Fail
+E4795,453,None,Within past 1-3 years,Minor,None,Pass
+E1074,274,Minor,Within past year,Minor,None,None
+E346,286,Minor,Within past 1-3 years,Major,None,Pass
+E4022,155,Major,Within past year,Major,None,Fail
+E2527,250,Major,None,Minor,None,None
+E4172,648,Major,Within past 1-3 years,Major,Flagged,None
+E448,196,Major,Within past year,Major,Flagged,Pass
+E667,294,Major,Within past 1-3 years,Minor,Flagged,None
+E4397,790,Minor,Within past year,Minor,Flagged,Fail
+E3337,544,Minor,None,Minor,Flagged,Pass
+E4237,336,None,Within past year,None,None,Fail
+E3509,983,Minor,None,None,Flagged,Pass
+E1677,704,None,Within past 1-3 years,Major,None,Pass
+E1742,292,Major,None,None,Flagged,Fail
+E1808,357,None,Within past 1-3 years,None,Flagged,Fail
+E2164,605,Major,Within past 1-3 years,None,Flagged,Pass
+E3352,522,None,Within past year,Minor,Flagged,Pass
+E3743,356,None,Within past year,Minor,Flagged,None
+E216,637,None,Within past 1-3 years,None,None,None
+E2923,590,None,Within past 1-3 years,Major,Flagged,Pass
+E2339,124,Minor,None,Minor,None,Fail
+E2331,778,Major,Within past 1-3 years,None,None,Fail
+E3884,991,Major,Within past 1-3 years,Minor,Flagged,None
+E3818,291,Minor,None,None,Flagged,None
+E2001,666,None,None,None,None,Pass
+E3240,370,Major,Within past year,None,None,Fail
+E354,615,None,Within past year,Minor,Flagged,None
+E846,598,None,Within past 1-3 years,None,Flagged,Pass
+E495,417,Major,Within past 1-3 years,Minor,None,Pass
+E3514,370,Minor,Within past year,Major,None,None
+E3970,461,Minor,Within past year,Minor,Flagged,None
+E3139,667,None,None,Major,Flagged,Fail
+E1129,666,Major,Within past year,Major,None,None
+E712,62,Minor,Within past 1-3 years,Major,Flagged,Pass
+E3334,108,None,None,Major,Flagged,Fail
+E2765,749,None,Within past year,Minor,None,Pass
+E163,817,Minor,None,Major,None,None
+E4262,496,Major,Within past 1-3 years,Major,None,None
+E3329,913,None,Within past year,Major,Flagged,Pass
+E1224,165,Major,Within past year,Major,Flagged,None
+E2366,240,Major,None,None,Flagged,None
+E3868,98,Minor,Within past year,Major,None,Pass
+E4429,893,Major,Within past year,Minor,None,Fail
+E4698,188,Major,Within past year,None,Flagged,Pass
+E3159,994,Major,None,None,Flagged,None
+E3145,195,Minor,None,None,Flagged,Pass
+E2475,319,Major,Within past year,Major,Flagged,Fail
+E3674,183,None,None,Minor,Flagged,Fail
+E3383,53,Major,Within past 1-3 years,None,Flagged,None
+E3088,500,Minor,Within past year,None,None,Fail
+E4021,419,None,None,Minor,None,Fail
+E2134,984,Minor,None,Minor,None,Pass
+E2604,995,Major,None,None,Flagged,Fail
+E2099,397,None,Within past 1-3 years,None,Flagged,None
+E1903,693,Minor,Within past year,Minor,None,None
+E3530,824,Major,Within past 1-3 years,Minor,None,Fail
+E3494,123,None,Within past 1-3 years,Major,None,Pass
+E4845,131,Major,Within past year,None,Flagged,Fail
+E2869,762,Minor,Within past year,Major,None,None
+E2949,457,None,None,Major,Flagged,Pass
+E2728,611,None,Within past 1-3 years,None,None,Fail
+E3672,621,None,Within past 1-3 years,None,Flagged,Pass
+E3860,89,Major,Within past 1-3 years,None,Flagged,Pass
+E4016,111,Major,Within past year,Minor,Flagged,Pass
+E63,182,Major,None,Minor,Flagged,None
+E2773,872,Minor,Within past year,None,Flagged,None
+E1070,291,None,Within past 1-3 years,None,Flagged,Pass
+E4633,411,None,Within past year,None,None,Fail
+E4940,790,Major,Within past 1-3 years,Major,None,None
+E4450,830,Minor,None,Major,Flagged,None
+E838,391,None,None,None,Flagged,None
+E264,433,Minor,Within past year,Minor,None,Pass
+E4451,582,Major,Within past 1-3 years,None,None,None
+E3167,930,Minor,Within past 1-3 years,None,None,Pass
+E2219,844,None,None,Minor,None,Fail
+E3215,279,None,None,Major,None,None
+E2278,731,None,None,Major,None,None
+E2160,827,None,Within past 1-3 years,Minor,Flagged,Fail
+E3293,916,None,Within past 1-3 years,None,Flagged,Fail
+E2606,922,Minor,None,Minor,Flagged,None
+E1001,719,Minor,Within past 1-3 years,Major,None,Pass
+E1760,932,Major,Within past year,Major,None,Fail
+E1462,297,None,Within past 1-3 years,Major,None,Fail
+E3929,104,Major,Within past 1-3 years,Minor,Flagged,None
+E1454,451,None,None,None,Flagged,None
+E1837,69,Major,None,None,Flagged,Pass
+E3593,149,Minor,None,Major,Flagged,None
+E1589,718,Major,Within past 1-3 years,Minor,None,None
+E792,715,Major,Within past 1-3 years,Minor,None,Pass
+E2276,438,Minor,Within past 1-3 years,None,Flagged,Pass
+E1585,109,None,None,Minor,Flagged,None
+E564,690,None,Within past 1-3 years,None,Flagged,Pass
+E1667,811,Minor,Within past 1-3 years,Major,None,Fail
